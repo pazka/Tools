@@ -1,0 +1,11 @@
+{
+  "name": "jsonfilterer",
+  "version": "1.0.0",
+  "description": "read json file and write another given some criteria",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alexandre Weisser",
+  "license": "ISC"
+}
